@@ -1,0 +1,3 @@
+Define los esquemas de los datos que la aplicación utiliza. 
+Esto incluye modelos de datos para la validación y serialización/deserialización 
+de datos desde y hacia formatos externos, como JSON en las solicitudes y respuestas HTTP.

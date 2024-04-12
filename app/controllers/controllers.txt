@@ -1,0 +1,3 @@
+Esta sección debe contener la lógica de negocio principal de la aplicación. 
+Los controladores procesan las solicitudes de los usuarios, interactúan con modelos y servicios 
+para acceder y manipular datos, y devuelven respuestas adecuadas a las vistas 

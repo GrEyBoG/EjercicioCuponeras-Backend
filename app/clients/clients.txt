@@ -1,0 +1,5 @@
+Contiene clases y interfaces que encapsulan la lógica para interactuar
+con servicios externos (como bases de datos, APIs de terceros, sistemas 
+de archivos, entre otros). Estos clientes facilitan la reutilización 
+del código, centralizan la configuración de servicios externos y proporcionan 
+una capa de abstracción que simplifica las pruebas automatizadas.

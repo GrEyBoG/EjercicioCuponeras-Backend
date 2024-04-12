@@ -1,0 +1,6 @@
+Las rutas actúan como el puente entre las solicitudes HTTP del cliente y la lógica
+de negocio del servidor, definida en los controladores. 
+Cada ruta está asociada a una URL específica y a un método HTTP (como GET, POST, PUT o DELETE) 
+y determina qué acción se debe realizar en respuesta a una solicitud entrante. 
+Esta capa abstrae la lógica de negocio del manejo de las solicitudes HTTP, asegurando 
+que la aplicación sea fácil de expandir y mantener.
